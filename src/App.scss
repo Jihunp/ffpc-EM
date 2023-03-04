@@ -1,0 +1,29 @@
+$primary-color: #5fa1e1;
+
+@import 'animate.css';
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/helvetica-neu.ttf') format('ttf');
+}
+@font-face {
+    font-family: 'La Belle Aurore';
+    src: url('./assets/fonts/LaBelleAurore.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('./assets/fonts/CoolveticaRg-Regular.woff2') format('woff2');
+}
+
+input,
+textarea {
+    font-family: 'Helvetica Neue';
+}
+
+
+//will decide to change font later as necessary.
+// <link rel="preconnect" href="https://fonts.googleapis.com">
+// <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+// <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300&family=Noto+Serif&display=swap" rel="stylesheet"
+
+// <style> @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300&family=Noto+Serif&display=swap'); </style>
